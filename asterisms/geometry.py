@@ -2,7 +2,7 @@ import skyfield
 from skyfield.units import Angle, Distance
 import numpy as np
 from numpy import array
-from asterisms.welzl import *
+#from asterisms.welzl import *
 
 #https://en.wikipedia.org/wiki/Machine_epsilon
 #epsilon = np.finfo(float).eps
